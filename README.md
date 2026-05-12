@@ -1,4 +1,4 @@
-# proxy_scraper – Smart Proxy Gathering CLI
+# TinyScrape – Smart Proxy Gathering CLI
 
 ---
 
